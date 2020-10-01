@@ -1,5 +1,5 @@
 [package]
-name = "GithubActionsTest"
+name = "github_actions_test"
 version = "0.1.0"
 authors = ["Nicolai Unrein <n.unrein@gmail.com>"]
 edition = "2018"
